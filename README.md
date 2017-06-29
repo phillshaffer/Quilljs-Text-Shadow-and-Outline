@@ -1,5 +1,5 @@
 # Quilljs Text Shadow and Outline
-Mini prof of concept to extend Quilljs to support custom text formats
+Mini proof of concept to extend Quilljs to support custom text formats
 
 ## Required
 * node.js
