@@ -1,0 +1,24 @@
+.container {
+    margin: 0 80px;
+}
+
+#delta {
+    border: 1px solid #ccc;
+    padding: 12px 15px;
+    height: auto;
+}
+
+.ql-shadow {
+    background: #aaaaaa !important;
+    /*background-image: url("./images/batman.svg") !important;
+    background-repeat: no-repeat !important;*/
+}
+
+.ql-outline {
+    background: #bbbbbb !important;
+}
+
+.ql-editor {
+    font-size: 164px;
+    color: #6accff;
+}

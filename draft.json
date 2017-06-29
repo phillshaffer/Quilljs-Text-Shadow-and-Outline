@@ -1,0 +1,580 @@
+﻿{
+    "advancedMode": true,
+    "uuid": "7b62b9eb-768a-3499-c08a-818c262fa6aa",
+    "templateId": 481,
+    "formatVersion": "0.5.0",
+    "templateVersion": "0.0.2",
+    "baseUrl": "/v3/templates/blank_public/",
+    "sizes": {
+        "rectangle": {
+            "width": 300,
+            "height": 250,
+            "guides": {
+                "top": [],
+                "left": []
+            },
+            "socialPlatform": "DISPLAY",
+            "minFrames": 1,
+            "meta": [],
+            "groups": [],
+            "background": {
+                "delay": 3000,
+                "uuid": "b9b43953-50a1-8712-d425-e6fe2c04b0b4",
+                "name": "Auto Background Frame",
+                "index": -1,
+                "widgets": []
+            },
+            "frames": [
+                {
+                    "delay": 3000,
+                    "uuid": "a6df1b0f-62ae-1440-75ec-a0b353919837",
+                    "name": "Frame 1",
+                    "index": 0,
+                    "widgets": [
+                        {
+                            "id": "New Text 1",
+                            "path": "common/label",
+                            "left": 15,
+                            "top": 100,
+                            "width": 270,
+                            "height": 50,
+                            "asset-uuid": "6fd8e33f-7e05-6baf-8485-fc04a249b339",
+                            "name": "Text 1",
+                            "static": true,
+                            "on-action": [],
+                            "version": "0.0.2",
+                            "sync": false,
+                            "z-index": 0,
+                            "font-size": 42,
+                            "uuid": "bf8e2e27-a4b3-7428-4c6c-3fc298bef5df",
+                            "loaded": true
+                        }
+                    ]
+                }
+            ],
+            "widgets": {}
+        },
+        "skyscraper": {
+            "width": 160,
+            "height": 600,
+            "guides": {
+                "top": [],
+                "left": []
+            },
+            "socialPlatform": "DISPLAY",
+            "minFrames": 1,
+            "meta": [],
+            "groups": [],
+            "background": {
+                "delay": 3000,
+                "uuid": "17fc40df-4c35-0bf4-7291-2dbcaa077f57",
+                "name": "Auto Background Frame",
+                "index": -1,
+                "widgets": []
+            },
+            "frames": [
+                {
+                    "delay": 3000,
+                    "uuid": "e54da0b0-ae58-06a4-36ed-4547317843a8",
+                    "name": "Frame 1",
+                    "index": 0,
+                    "widgets": [
+                        {
+                            "id": "New Text 1",
+                            "path": "common/label",
+                            "left": 8,
+                            "top": 210,
+                            "width": 144,
+                            "height": 180,
+                            "asset-uuid": "6fd8e33f-7e05-6baf-8485-fc04a249b339",
+                            "name": "Text 1",
+                            "static": true,
+                            "on-action": [],
+                            "version": "0.0.2",
+                            "sync": false,
+                            "z-index": 0,
+                            "font-size": 39,
+                            "uuid": "df84005d-e230-c2e5-611d-dd9d5686e463",
+                            "loaded": true
+                        }
+                    ]
+                }
+            ],
+            "widgets": {}
+        },
+        "leaderboard": {
+            "width": 728,
+            "height": 90,
+            "guides": {
+                "top": [],
+                "left": []
+            },
+            "socialPlatform": "DISPLAY",
+            "minFrames": 1,
+            "meta": [],
+            "groups": [],
+            "background": {
+                "delay": 3000,
+                "uuid": "fc6fdcb2-18c5-7ee6-cfee-110e869d827d",
+                "name": "Auto Background Frame",
+                "index": -1,
+                "widgets": []
+            },
+            "frames": [
+                {
+                    "delay": 3000,
+                    "uuid": "332315f6-0bb7-f018-0e39-2e29ceaa20af",
+                    "name": "Frame 1",
+                    "index": 0,
+                    "widgets": [
+                        {
+                            "id": "New Text 1",
+                            "path": "common/label",
+                            "left": 182,
+                            "top": 4,
+                            "width": 364,
+                            "height": 81,
+                            "asset-uuid": "6fd8e33f-7e05-6baf-8485-fc04a249b339",
+                            "name": "Text 1",
+                            "static": true,
+                            "on-action": [],
+                            "version": "0.0.2",
+                            "sync": false,
+                            "z-index": 0,
+                            "font-size": 60,
+                            "uuid": "209cd88a-eaef-a135-f84b-0bf5f26e3b8f",
+                            "loaded": true
+                        }
+                    ]
+                }
+            ],
+            "widgets": {}
+        },
+        "mobile": {
+            "width": 320,
+            "height": 50,
+            "guides": {
+                "top": [],
+                "left": []
+            },
+            "socialPlatform": "DISPLAY",
+            "minFrames": 1,
+            "meta": [],
+            "groups": [],
+            "background": {
+                "delay": 3000,
+                "uuid": "8bd0edd5-c18e-d00e-68fb-16beccaab160",
+                "name": "Auto Background Frame",
+                "index": -1,
+                "widgets": []
+            },
+            "frames": [
+                {
+                    "delay": 3000,
+                    "uuid": "4711f54b-2416-10e9-9470-563f4bf90fca",
+                    "name": "Frame 1",
+                    "index": 0,
+                    "widgets": [
+                        {
+                            "id": "New Text 1",
+                            "path": "common/label",
+                            "left": 130,
+                            "top": 2,
+                            "width": 60,
+                            "height": 45,
+                            "asset-uuid": "6fd8e33f-7e05-6baf-8485-fc04a249b339",
+                            "name": "Text 1",
+                            "static": true,
+                            "on-action": [],
+                            "version": "0.0.2",
+                            "sync": false,
+                            "z-index": 0,
+                            "font-size": 16,
+                            "uuid": "d8eb4479-19e3-c292-605f-7541f9151c19",
+                            "loaded": true
+                        }
+                    ]
+                }
+            ],
+            "widgets": {}
+        },
+        "halfpage": {
+            "width": 300,
+            "height": 600,
+            "guides": {
+                "top": [],
+                "left": []
+            },
+            "socialPlatform": "DISPLAY",
+            "minFrames": 1,
+            "meta": [],
+            "groups": [],
+            "background": {
+                "delay": 3000,
+                "uuid": "6de31886-04a9-2cf7-0efb-d9ba6b7fbb4d",
+                "name": "Auto Background Frame",
+                "index": -1,
+                "widgets": []
+            },
+            "frames": [
+                {
+                    "delay": 3000,
+                    "uuid": "6264c297-0fad-4bae-cb54-c3f48e02ba2c",
+                    "name": "Frame 1",
+                    "index": 0,
+                    "widgets": [
+                        {
+                            "id": "New Text 1",
+                            "path": "common/label",
+                            "left": 60,
+                            "top": 277,
+                            "width": 180,
+                            "height": 45,
+                            "asset-uuid": "6fd8e33f-7e05-6baf-8485-fc04a249b339",
+                            "name": "Text 1",
+                            "static": true,
+                            "on-action": [],
+                            "version": "0.0.2",
+                            "sync": false,
+                            "z-index": 0,
+                            "font-size": 29,
+                            "uuid": "9fa8640d-9977-9bf4-c730-994b64d14a8e",
+                            "loaded": true
+                        }
+                    ]
+                }
+            ],
+            "widgets": {}
+        },
+        "DESKTOP_FEED_STANDARD": {
+            "width": 470,
+            "height": 246,
+            "guides": {
+                "top": [],
+                "left": []
+            },
+            "socialPlatform": "FACEBOOK",
+            "minFrames": 1,
+            "maxFrames": 1,
+            "meta": {
+                "link": {
+                    "text": "",
+                    "asset-uuid": ""
+                },
+                "name": {
+                    "text": "",
+                    "asset-uuid": ""
+                },
+                "caption": {
+                    "text": "",
+                    "asset-uuid": ""
+                },
+                "description": {
+                    "text": "",
+                    "asset-uuid": ""
+                },
+                "message": {
+                    "text": "",
+                    "asset-uuid": ""
+                },
+                "call_to_action": {
+                    "text": "NO_BUTTON",
+                    "asset-uuid": ""
+                }
+            },
+            "type": "imageEditor",
+            "groups": [],
+            "background": {
+                "delay": 3000,
+                "uuid": "78526d13-d990-6873-e567-83d8fe2a35fc",
+                "name": "Auto Background Frame",
+                "index": -1,
+                "widgets": []
+            },
+            "frames": [
+                {
+                    "delay": 3000,
+                    "uuid": "99a0b2f5-8ef5-4d56-c155-cde844b3fc2e",
+                    "name": "Frame 1",
+                    "index": 0,
+                    "widgets": [
+                        {
+                            "height": 246,
+                            "id": "photo1",
+                            "name": "photo1",
+                            "uuid": "7c53e906-c55f-5ea8-d5a0-a67dd99dc68f",
+                            "version": "0.0.2",
+                            "width": 470,
+                            "z-index": 0,
+                            "loaded": true,
+                            "path": "common/photo"
+                        },
+                        {
+                            "id": "New Text 1",
+                            "path": "common/label",
+                            "left": 100,
+                            "top": 98,
+                            "width": 270,
+                            "height": 50,
+                            "asset-uuid": "6fd8e33f-7e05-6baf-8485-fc04a249b339",
+                            "name": "Text 1",
+                            "static": true,
+                            "on-action": [],
+                            "version": "0.0.2",
+                            "sync": false,
+                            "z-index": 1,
+                            "font-size": 42,
+                            "uuid": "cc18874d-114c-fe13-c4a1-be9d9cb69d69",
+                            "loaded": true
+                        }
+                    ]
+                }
+            ],
+            "widgets": {}
+        },
+        "FACEBOOK_CAROUSEL": {
+            "width": 298,
+            "height": 298,
+            "guides": {
+                "top": [],
+                "left": []
+            },
+            "socialPlatform": "FACEBOOK",
+            "minFrames": 3,
+            "maxFrames": 10,
+            "meta": {
+                "showBestPerformingFirst": true,
+                "showSeeMoreCard": false,
+                "caption": {
+                    "text": "",
+                    "asset-uuid": ""
+                },
+                "message": {
+                    "text": "",
+                    "asset-uuid": ""
+                },
+                "link": {
+                    "text": "",
+                    "asset-uuid": ""
+                },
+                "child_attachments": [
+                    {
+                        "description": {
+                            "text": "",
+                            "asset-uuid": ""
+                        },
+                        "link": {
+                            "text": "",
+                            "asset-uuid": ""
+                        },
+                        "name": {
+                            "text": "",
+                            "asset-uuid": ""
+                        },
+                        "call_to_action": {
+                            "text": "NO_BUTTON",
+                            "asset-uuid": ""
+                        }
+                    },
+                    {
+                        "description": {
+                            "text": "",
+                            "asset-uuid": ""
+                        },
+                        "link": {
+                            "text": "",
+                            "asset-uuid": ""
+                        },
+                        "name": {
+                            "text": "",
+                            "asset-uuid": ""
+                        },
+                        "call_to_action": {
+                            "text": "NO_BUTTON",
+                            "asset-uuid": ""
+                        }
+                    },
+                    {
+                        "description": {
+                            "text": "",
+                            "asset-uuid": ""
+                        },
+                        "link": {
+                            "text": "",
+                            "asset-uuid": ""
+                        },
+                        "name": {
+                            "text": "",
+                            "asset-uuid": ""
+                        },
+                        "call_to_action": {
+                            "text": "NO_BUTTON",
+                            "asset-uuid": ""
+                        }
+                    }
+                ]
+            },
+            "type": "imageEditor",
+            "groups": [],
+            "background": {
+                "delay": 3000,
+                "uuid": "817df019-245d-5004-83b9-458147aba099",
+                "name": "Auto Background Frame",
+                "index": -1,
+                "widgets": []
+            },
+            "frames": [
+                {
+                    "delay": 3000,
+                    "uuid": "2c017260-78d9-ab30-1c92-cf393f801d12",
+                    "name": "Card 1",
+                    "index": 0,
+                    "widgets": [
+                        {
+                            "height": 298,
+                            "id": "photo1",
+                            "name": "photo1",
+                            "uuid": "368d1ccc-43fe-6075-95a1-29e91e699a00",
+                            "version": "0.0.2",
+                            "width": 298,
+                            "z-index": 0,
+                            "asset-uuid": "41b88c19-5617-65d4-206f-2acb9c008e2d",
+                            "loaded": true,
+                            "path": "common/photo"
+                        },
+                        {
+                            "id": "New Text 1",
+                            "path": "common/label",
+                            "left": 14,
+                            "top": 124,
+                            "width": 270,
+                            "height": 50,
+                            "asset-uuid": "6fd8e33f-7e05-6baf-8485-fc04a249b339",
+                            "name": "Text 1",
+                            "static": true,
+                            "on-action": [],
+                            "version": "0.0.2",
+                            "sync": false,
+                            "z-index": 3,
+                            "font-size": 42,
+                            "uuid": "685aade2-9783-98cc-9500-d8bd56d5b954",
+                            "loaded": true
+                        }
+                    ]
+                },
+                {
+                    "delay": 3000,
+                    "uuid": "80b63eab-167b-af9a-91a1-368b705a1ff8",
+                    "name": "Card 2",
+                    "index": 1,
+                    "widgets": [
+                        {
+                            "height": 298,
+                            "id": "photo2",
+                            "name": "photo2",
+                            "uuid": "13068ca8-334f-1e8e-5c35-4afed4e84d4b",
+                            "version": "0.0.2",
+                            "width": 298,
+                            "z-index": 1,
+                            "asset-uuid": "ac91f74d-65b5-89cb-a0a4-e742b3054c8f",
+                            "loaded": true,
+                            "path": "common/photo"
+                        }
+                    ]
+                },
+                {
+                    "delay": 3000,
+                    "uuid": "cbd79794-d1ac-499b-3c49-f19e16790077",
+                    "name": "Card 3",
+                    "index": 2,
+                    "widgets": [
+                        {
+                            "height": 298,
+                            "id": "photo3",
+                            "name": "photo3",
+                            "uuid": "dbec22f1-260f-7e0f-4eea-073a0ca2bb99",
+                            "version": "0.0.2",
+                            "width": 298,
+                            "z-index": 2,
+                            "asset-uuid": "1b826182-ffca-7919-bd23-679058711df1",
+                            "loaded": true,
+                            "path": "common/photo"
+                        }
+                    ]
+                }
+            ],
+            "widgets": {}
+        }
+    },
+    "assets": [
+        {
+            "uuid": "41b88c19-5617-65d4-206f-2acb9c008e2d",
+            "type": "common/photo",
+            "name": "photo1",
+            "data": [
+                "photos"
+            ],
+            "loaded": true,
+            "full_src": "",
+            "opacity": 1
+        },
+        {
+            "uuid": "ac91f74d-65b5-89cb-a0a4-e742b3054c8f",
+            "type": "common/photo",
+            "name": "photo2",
+            "data": [
+                "photos"
+            ],
+            "loaded": true,
+            "full_src": "",
+            "opacity": 1
+        },
+        {
+            "uuid": "1b826182-ffca-7919-bd23-679058711df1",
+            "type": "common/photo",
+            "name": "photo3",
+            "data": [
+                "photos"
+            ],
+            "loaded": true,
+            "full_src": "",
+            "opacity": 1
+        },
+        {
+            "type": "common/label",
+            "name": "Text 1",
+            "data": [
+                "texts"
+            ],
+            "color": "#6accff",
+            "uuid": "6fd8e33f-7e05-6baf-8485-fc04a249b339",
+            "loaded": true,
+            "line-height": "1.2",
+            "font-family": "Arial",
+            "font-weight": 400,
+            "text-align": "center",
+            "letter-spacing": "",
+            "font-style": "normal",
+            "text": "<div style='text-shadow: rgb(255, 157, 171) 4px 4px 4px'>Shadow Text!</div>",
+            "richText": {
+                "ops": [
+                    {
+                        "insert": "Shadow Text!\n"
+                    }
+                ]
+            },
+            "opacity": 1,
+            "campaignDataId": "26981143-8ae9-4a1e-3229-db4058721da4"
+        }
+    ],
+    "assetsConverted": true,
+    "fonts": [],
+    "palettes": {
+        "default": {
+            "base": "#000000"
+        }
+    },
+    "defaultPalette": "default",
+    "transitions": [],
+    "selectedSize": "rectangle"
+}
